@@ -10,7 +10,7 @@ url = "http://pesquisa.in.gov.br/imprensa/core/consulta.action"
 # Variáveis do formulário e respectivos parâmetros de busca.
 payload = {
     "edicao.txtPesquisa" : "brasil", # Palavra buscada em questão.
-    "edicao.consultaAntiga" : "1,1000,1010,1020,2,2000,3,3000,3020,", # (?) Opcional. Mantive igual à busca padrão.
+    "edicao.consultaAntiga" : "1,1000,1010,1020,2,2000,3,3000,3020,", # Opcional. Mantive igual à busca padrão.
     "edicao.fonetica": "null,", # Busca a palavra exata (grafia).
     "edicao.dtInicio" : "06/07", # Data início
     "edicao.dtFim" : "11/07", # Data fim
