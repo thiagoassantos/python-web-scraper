@@ -12,8 +12,8 @@ payload = {
     "edicao.txtPesquisa" : "brasil", # Palavra buscada em questão.
     "edicao.consultaAntiga" : "1,1000,1010,1020,2,2000,3,3000,3020,", # Opcional. Mantive igual à busca padrão.
     "edicao.fonetica": "null,", # Busca a palavra exata (grafia).
-    "edicao.dtInicio" : "06/07", # Data início
-    "edicao.dtFim" : "11/07", # Data fim
+    "edicao.dtInicio" : "01/08", # Data início
+    "edicao.dtFim" : "15/08", # Data fim
     "edicao.ano" : "2017" # Ano selecionado no menu drop-down.
 }
 
