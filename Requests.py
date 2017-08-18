@@ -24,8 +24,8 @@ r = sessao.post(url, payload)
 r.encoding
 
 print(r.text)
-#print(r.cookies)
-#print(r.headers)
+# print(r.cookies)
+# print(r.headers)
 
 # Salva a página HTML.
 htmlArquivo = r.text
